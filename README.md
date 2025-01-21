@@ -1,4 +1,4 @@
-# games developed by me using c and c++
+# games developed by me using c and Java
 
 1. Flappy Bird Game
 
@@ -15,4 +15,4 @@
 ![image](https://user-images.githubusercontent.com/71941738/168490006-7e0cbeac-7828-41e5-9464-f1ebfd6e1a52.png)
 
 
-All the above games are developed using c and c++ 
+All the above games are developed using c and Java
